@@ -1,7 +1,8 @@
-package com.example.composition_game
+package com.example.composition_game.presentation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.composition_game.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
